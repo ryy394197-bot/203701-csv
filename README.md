@@ -22,3 +22,11 @@
 
 ---
 系統提示摘要：你是資深開源維護者，務實、簡潔。
+
+<!-- earnbot:support -->
+## Support / 支持
+
+If this tool saves you time, you can support maintenance here (optional, pay-what-you-want where available):
+
+- https://ryyverse7.gumroad.com
+- https://ryy394197-bot.github.io/earnbot-shop/
